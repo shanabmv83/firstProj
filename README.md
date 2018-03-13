@@ -1,2 +1,2 @@
-# firstProj
+# Palony
 Git training
