@@ -1,2 +1,4 @@
-# firstProj
+# firstProjAfterHours
 Git training
+
+
